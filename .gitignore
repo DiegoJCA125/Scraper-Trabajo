@@ -1,0 +1,6 @@
+ofertas_vistas.json
+config.py
+.env
+venv/
+__pycache__/
+*.pyc
