@@ -1,6 +1,7 @@
 ofertas_vistas.json
 config.py
 .env
+log.ejecucion.txt
 venv/
 __pycache__/
 *.pyc
